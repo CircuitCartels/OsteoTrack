@@ -307,51 +307,80 @@ WHO / ICMR guidance related to musculoskeletal screening and low-resource settin
 The project also includes clinical insights obtained through expert consultation related to osteoarthritis.
 
 
-👥 Team — Circuit Cartels
-Circuit Cartels
+# 👥 Team — Circuit Cartels
 
-Circuit Cartels is the team behind the WearOA project developed for Smart India Hackathon 2026.
+## Circuit Cartels
+
+**Circuit Cartels** is the team behind the **WearOA** project developed for **Smart India Hackathon 2026**.
 
 The project combines multiple areas of development and research:
 
-🧠 Problem research
-🏥 Healthcare / clinical problem understanding
-🔌 Hardware planning
-📡 Wearable sensor architecture
-📱 Mobile application development
-🤖 AI/ML planning
-🔗 System integration
-🧪 Testing
-📚 Documentation
-🎤 Presentation
+- 🧠 Problem research
+- 🏥 Healthcare / clinical problem understanding
+- 🔌 Hardware planning
+- 📡 Wearable sensor architecture
+- 📱 Mobile application development
+- 🤖 AI/ML planning
+- 🔗 System integration
+- 🧪 Testing
+- 📚 Documentation
+- 🎤 Presentation
+  
+# 📂 Project Structure
 
-
-📂 Project Structure
+```text
 OsteoTrack/
 │
 ├── android/                  # Android platform files
 ├── ios/                     # iOS platform files
 ├── linux/                   # Linux platform files
 ├── macos/                   # macOS platform files
-├── windows/                 # Windows platform files
+├── windows/                  # Windows platform files
 │
 ├── lib/                     # Main Flutter / Dart application
-│
 ├── web/                     # Flutter Web configuration
-│
 ├── test/                    # Application tests
-│
 ├── build/                   # Generated build files
 │
-├── pubspec.yaml              # Flutter dependencies & configuration
-├── pubspec.lock              # Locked dependency versions
-├── analysis_options.yaml     # Dart analysis configuration
-│
-└── README.md                 # Project documentation
+├── pubspec.yaml             # Flutter dependencies & configuration
+├── pubspec.lock             # Locked dependency versions
+├── analysis_options.yaml    # Dart analysis configuration
+└── README.md                # Project documentation
+```
 
+# 🌟 Project Vision
 
-👥 Circuit Cartels
-Building WearOA for Smart India Hackathon 2026
-Wearable sensing + Mobile Technology + AI/ML for early osteoarthritis risk screening.
+WearOA explores how **wearable sensing, mobile applications, offline-first architecture, and AI/ML** can be brought together into a single screening workflow.
 
+```text
+Wearable Sensing
+       +
+Mobile Technology
+       +
+AI / ML
+       +
+Offline-First Architecture
+       ↓
+Early OA Risk Screening
+```
+
+---
+
+# 👥 Circuit Cartels
+
+### Building WearOA for Smart India Hackathon 2026
+
+> **Wearable Sensing + Mobile Technology + AI/ML for Early Osteoarthritis Risk Screening**
+
+---
+
+## 📌 Project Status
+
+**🟢 Working Prototype**
+
+**WearOA — Wearable Gait-Sensor Kit for Early Osteoarthritis Risk Screening**
+
+**OsteoTrack — Flutter Android Prototype**
+
+**Smart India Hackathon 2026 • SIH26004 • MedTech / HealthTech • Circuit Cartels**
 
