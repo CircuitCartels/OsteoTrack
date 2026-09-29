@@ -1,4 +1,4 @@
-# 🦴 WearOA
+#  OsteoTrack
 
 ## Wearable Gait-Sensor Kit for Early Osteoarthritis Risk Screening
 
